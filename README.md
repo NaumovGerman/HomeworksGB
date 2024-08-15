@@ -1,4 +1,5 @@
 # ДЗ 6-7
+**Отчет** - https://docs.google.com/document/d/14DplkPSV4zwSlFJNJjLx0N0-6t-SFR9zadXqA106VqM/edit?usp=sharing
 
 - hw6-7_part1.ipynb:
   - здесь я перевожу данные из pdf в векторную бд, добавляю агентов + создаю датасет
